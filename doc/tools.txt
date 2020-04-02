@@ -1,0 +1,1 @@
+tool_alias_name|package_name/tool_name|tool_category|tool_url|tool_installer|tool_dependency
